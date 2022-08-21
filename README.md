@@ -19,7 +19,7 @@ $ npm -v
 Suggest that you begin by typing:
 =============================================
 $ git clone https://github.com/vinodr2508/spicejet.git
-$ cd app
+$ cd spicejet/app
 $ npm start
 =============================================
 ```
