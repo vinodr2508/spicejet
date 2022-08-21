@@ -1,5 +1,5 @@
 # Assessment - Product Listing/Add/Delete
-this is the first react application
+A React JS Application
 
 ## Environment
 1. Node
@@ -13,29 +13,12 @@ $ node -v
 $ npm -v
 ```
 
-## How to run a food prodcut application
+## How to run a food product application
 ```bash
--- to installing pakages, this might take a couple of minutes
-=============================================
-$ npx create-react-app app
-=============================================
---Inside that directory, you can run several commands:
-
-$ npm start   
---Starts the development server.
-
-$ npm run build    
---Bundles the app into static files for production.
-
-$ npm test 
---Starts the test runner.
-
-$ npm run eject 
---Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
 
 Suggest that you begin by typing:
 =============================================
+$ git clone https://github.com/vinodr2508/spicejet.git
 $ cd app
 $ npm start
 =============================================
